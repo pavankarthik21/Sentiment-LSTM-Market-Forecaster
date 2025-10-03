@@ -8,11 +8,12 @@ HackUTD project. Predict short-term market movement by combining FinancialBERT s
 
 
 ## How to run (simple)
-1) Make sure Python is installed.
+1) Make sure Python and all requirements are installed.
 2) Run: `python main.py`
+3) Run 'index.html' to view results
 
 ## Why this is interesting
-Most models use only price. Adding news sentiment makes the signal less noisy.
+Most models use only price. Adding news sentiment makes the signal less noisy and more accurate prediction. 
 
 
 ## Project Overview
