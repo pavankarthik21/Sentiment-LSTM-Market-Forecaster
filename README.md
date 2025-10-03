@@ -1,5 +1,5 @@
 
-# Sentiment LSTM Market Forecaster ( HackUTD-HACKATHON CHALLENGE)
+# Sentiment LSTM Market Forecaster (HackUTD)
 
 HackUTD project. Predict short-term market movement by combining FinancialBERT sentiment with LSTM on price history.
 
